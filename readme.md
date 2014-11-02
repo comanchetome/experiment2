@@ -1,6 +1,6 @@
 # Readme
 
-Very cool git feature exploration.
+Very cool git feature exploration. More description added.
 
 ## Some Install Notes
 
